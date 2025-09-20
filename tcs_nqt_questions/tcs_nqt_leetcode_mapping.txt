@@ -1,0 +1,236 @@
+TCS NQT QUESTIONS MAPPED TO SIMILAR LEETCODE PROBLEMS
+==================================================
+
+This file provides LeetCode problem numbers and links for questions similar to those found in TCS NQT exams.
+Use this as a reference for additional practice.
+
+-------------------------------------------------
+TCS NQT 2021 MORNING SHIFT
+-------------------------------------------------
+
+1. Number Series Problem (Find the Nth term in the given series)
+   Similar to: Mathematical pattern problems (no direct LeetCode equivalent)
+   Practice with: Basic math sequence problems
+
+2. Sub-array with given sum
+   LeetCode #560: Subarray Sum Equals K
+   https://leetcode.com/problems/subarray-sum-equals-k/
+
+3. String Operations Problem (Count vowels and consonants)
+   Similar to: Basic string manipulation
+   LeetCode #387: First Unique Character in a String
+   https://leetcode.com/problems/first-unique-character-in-a-string/
+
+-------------------------------------------------
+TCS NQT 2021 EVENING SHIFT
+-------------------------------------------------
+
+1. Train Problem (Speed, distance, time)
+   Similar to: Mathematical word problems (no direct LeetCode equivalent)
+
+2. Array Manipulations (Finding smallest missing positive)
+   LeetCode #41: First Missing Positive
+   https://leetcode.com/problems/first-missing-positive/
+
+3. String Encryption
+   Similar to: String manipulation
+   LeetCode #1844: Replace All Digits with Characters
+   https://leetcode.com/problems/replace-all-digits-with-characters/
+
+-------------------------------------------------
+TCS NQT 2022 MORNING SHIFT
+-------------------------------------------------
+
+1. Counting Binary Strings (without consecutive 1s)
+   LeetCode #70: Climbing Stairs (mathematically similar)
+   https://leetcode.com/problems/climbing-stairs/
+   Also similar to LeetCode #198: House Robber (concept)
+   https://leetcode.com/problems/house-robber/
+
+2. Frequency of Elements
+   LeetCode #347: Top K Frequent Elements
+   https://leetcode.com/problems/top-k-frequent-elements/
+
+3. Palindrome Check with Modification
+   LeetCode #680: Valid Palindrome II
+   https://leetcode.com/problems/valid-palindrome-ii/
+
+-------------------------------------------------
+TCS NQT 2022 EVENING SHIFT
+-------------------------------------------------
+
+1. Jumping Numbers
+   Not directly on LeetCode, but conceptually similar to:
+   LeetCode #55: Jump Game
+   https://leetcode.com/problems/jump-game/
+
+2. Job Sequencing Problem
+   Similar to: 
+   LeetCode #1235: Maximum Profit in Job Scheduling
+   https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+
+3. String Pattern Matching
+   LeetCode #290: Word Pattern
+   https://leetcode.com/problems/word-pattern/
+
+-------------------------------------------------
+TCS NQT 2023 MORNING SHIFT
+-------------------------------------------------
+
+1. Matrix Operations (Diagonal Difference)
+   Not directly on LeetCode but similar matrix operations:
+   LeetCode #1329: Sort the Matrix Diagonally
+   https://leetcode.com/problems/sort-the-matrix-diagonally/
+
+2. Digit Removal Problem
+   Similar to:
+   LeetCode #402: Remove K Digits
+   https://leetcode.com/problems/remove-k-digits/
+
+3. Lexicographically Smallest String
+   LeetCode #316: Remove Duplicate Letters
+   https://leetcode.com/problems/remove-duplicate-letters/
+   Also LeetCode #1081: Smallest Subsequence of Distinct Characters
+   https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+
+-------------------------------------------------
+TCS NQT 2023 EVENING SHIFT
+-------------------------------------------------
+
+1. Colorful Number
+   No direct LeetCode equivalent, closest concept:
+   LeetCode #1207: Unique Number of Occurrences
+   https://leetcode.com/problems/unique-number-of-occurrences/
+
+2. Longest Increasing Subsequence
+   LeetCode #300: Longest Increasing Subsequence
+   https://leetcode.com/problems/longest-increasing-subsequence/
+
+3. Substring with Distinct Characters
+   LeetCode #3: Longest Substring Without Repeating Characters
+   https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+-------------------------------------------------
+TCS NQT 2024 MORNING SHIFT
+-------------------------------------------------
+
+1. Travelling Salesman Problem (Simplified)
+   Similar concept:
+   LeetCode #1584: Min Cost to Connect All Points
+   https://leetcode.com/problems/min-cost-to-connect-all-points/
+
+2. Height of Binary Tree
+   LeetCode #104: Maximum Depth of Binary Tree
+   https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+3. Minimum Number of Swaps to Sort Array
+   Not directly on LeetCode, but related concept:
+   LeetCode #1202: Smallest String With Swaps
+   https://leetcode.com/problems/smallest-string-with-swaps/
+
+-------------------------------------------------
+TCS NQT 2024 EVENING SHIFT
+-------------------------------------------------
+
+1. Rearrange Array in Wave Pattern
+   Similar concept:
+   LeetCode #280: Wiggle Sort (Premium)
+   LeetCode #324: Wiggle Sort II
+   https://leetcode.com/problems/wiggle-sort-ii/
+
+2. Stock Buy and Sell Problem
+   LeetCode #122: Best Time to Buy and Sell Stock II
+   https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+3. Word Break Problem
+   LeetCode #139: Word Break
+   https://leetcode.com/problems/word-break/
+
+-------------------------------------------------
+COMMON TCS NQT QUESTIONS
+-------------------------------------------------
+
+1. Find the Nth term in a series
+   Mathematical pattern problems (practice with basic algorithms)
+
+2. String Manipulations (Reversing, removing characters)
+   LeetCode #151: Reverse Words in a String
+   https://leetcode.com/problems/reverse-words-in-a-string/
+   LeetCode #344: Reverse String
+   https://leetcode.com/problems/reverse-string/
+
+3. Array Operations
+   - Array Rotation:
+     LeetCode #189: Rotate Array
+     https://leetcode.com/problems/rotate-array/
+   - Finding Missing Number:
+     LeetCode #268: Missing Number
+     https://leetcode.com/problems/missing-number/
+
+4. Number Conversions
+   LeetCode #67: Add Binary
+   https://leetcode.com/problems/add-binary/
+   LeetCode #405: Convert a Number to Hexadecimal
+   https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+
+5. Dynamic Programming
+   - Knapsack Problem:
+     Similar to LeetCode #416: Partition Equal Subset Sum
+     https://leetcode.com/problems/partition-equal-subset-sum/
+   - Longest Common Subsequence:
+     LeetCode #1143: Longest Common Subsequence
+     https://leetcode.com/problems/longest-common-subsequence/
+
+-------------------------------------------------
+ADDITIONAL RECOMMENDED LEETCODE PROBLEMS FOR TCS NQT
+-------------------------------------------------
+
+1. Array & Strings:
+   - LeetCode #1: Two Sum
+     https://leetcode.com/problems/two-sum/
+   - LeetCode #53: Maximum Subarray
+     https://leetcode.com/problems/maximum-subarray/
+   - LeetCode #121: Best Time to Buy and Sell Stock
+     https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+2. Linked Lists:
+   - LeetCode #206: Reverse Linked List
+     https://leetcode.com/problems/reverse-linked-list/
+   - LeetCode #21: Merge Two Sorted Lists
+     https://leetcode.com/problems/merge-two-sorted-lists/
+
+3. Stacks & Queues:
+   - LeetCode #20: Valid Parentheses
+     https://leetcode.com/problems/valid-parentheses/
+   - LeetCode #155: Min Stack
+     https://leetcode.com/problems/min-stack/
+
+4. Trees & Graphs:
+   - LeetCode #94: Binary Tree Inorder Traversal
+     https://leetcode.com/problems/binary-tree-inorder-traversal/
+   - LeetCode #144: Binary Tree Preorder Traversal
+     https://leetcode.com/problems/binary-tree-preorder-traversal/
+   - LeetCode #145: Binary Tree Postorder Traversal
+     https://leetcode.com/problems/binary-tree-postorder-traversal/
+
+5. Searching & Sorting:
+   - LeetCode #704: Binary Search
+     https://leetcode.com/problems/binary-search/
+   - LeetCode #912: Sort an Array
+     https://leetcode.com/problems/sort-an-array/
+
+6. Dynamic Programming:
+   - LeetCode #70: Climbing Stairs
+     https://leetcode.com/problems/climbing-stairs/
+   - LeetCode #322: Coin Change
+     https://leetcode.com/problems/coin-change/
+
+-------------------------------------------------
+STUDY TIPS
+-------------------------------------------------
+
+1. Focus on understanding the algorithm concepts rather than memorizing solutions.
+2. Practice multiple variations of each problem type.
+3. Time yourself when solving problems to improve speed.
+4. Review solutions after solving to find more optimal approaches.
+5. Practice both coding and aptitude sections of TCS NQT.
